@@ -50,3 +50,10 @@ You can install these packages using the following command:
 
 ```bash
 pip install pandas numpy matplotlib seaborn prophet
+```
+
+## Contributors
+
+- Norhan Alatyr - norhan_soliman@aucegypt.edu
+- Kyrollos Zakaria - kyrolloszakaria@aucegypt.edu
+
